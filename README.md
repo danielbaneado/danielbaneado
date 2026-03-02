@@ -1,4 +1,4 @@
-## print("Hi coders 👋! I'm Daniel Alzate)
+# print("Hi coders 👋! I'm Daniel Alzate)
 
 A lot of things to feature ⬇
 
@@ -7,5 +7,5 @@ A lot of things to feature ⬇
 - 👾 People says i would fit as a language teacher, for sure im interested that, but not in spanish, in C++ 👾
 - 🎹♟️ I love playing chess and piano, reading and writing both english and spanish, sometimes take a nap generally at 3PM ♟️🎹
 
-# Random facts 'bout me
+## Random facts 'bout me
 
